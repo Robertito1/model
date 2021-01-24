@@ -1,0 +1,14 @@
+{
+  "name": "usermodel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "createTable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.5.1"
+  }
+}
